@@ -26,7 +26,11 @@ Forecasting & Reports: Predict future income/expenses and generate detailed fina
 
 This project aims to provide users with a complete tool for managing their personal finances and achieving their financial goals.
 
-Ankita Lomte
-Sakshi Deshmukh
-Snehal Jadhav
-Bhargavi Maigur
+Ankita Lomte,
+Sakshi Deshmukh,
+Snehal Jadhav,
+Bhargavi Maigur,
+
+## 📽️ Demo Video
+
+[Click here to watch the demo]("")
